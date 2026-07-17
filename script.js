@@ -48,11 +48,10 @@ backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 's
 const collections = [
   { title: 'Bridal and occasional jewelry', image: 'images/collection1.png', link: 'design1.html' },
   { title: 'Kundan jewellery components', image: 'images/collection2.png' , link: 'design2.html' },
-  { title: 'Kundan rings', image: 'images/collection3.png' , link: 'design3.html' },
-  { title: 'Kilangi', image: 'images/collection4.png' , link: 'design4.html' },
+  { title: 'Kundan rings & Kilangi', image: 'images/collection3.png' , link: 'design3.html' },
   { title: 'Kundan earrings & mangtika', image: 'images/collection5.png' , link: 'design5.html' },
- /* { title: 'Design 07', image: 'images/photo7.webp' },
-  { title: 'Design 08', image: 'images/photo8.png' },
+  { title: 'Bangles', image: 'images/collection6.png' , link: 'design6.html' }
+ /* { title: 'Design 08', image: 'images/photo8.png' },
   { title: 'Design 09', image: 'images/photo9.jpeg' },
   { title: 'Design 10', image: 'images/photo10.jpg' } */
 ];
