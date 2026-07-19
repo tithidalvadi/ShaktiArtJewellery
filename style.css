@@ -268,3 +268,9 @@ h3 { font-size:1.3rem; }
     object-fit: contain;
     border-radius: 12px; /* optional */
 }
+.footer-logo-img{
+    width: 55px;
+    height: 55px;
+    object-fit: contain;
+    border-radius: 12px;
+}
