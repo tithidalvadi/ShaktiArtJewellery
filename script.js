@@ -46,10 +46,10 @@ function updateActiveNav() {
 backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 /* ---------- COLLECTIONS DATA ---------- */
 const collections = [
-  { title: 'Bridal and occasional jewellry', image: 'images/collection1.png', link: 'design1.html' },
-  { title: 'Kundan jewellery raw material', image: 'images/collection2.png' , link: 'design2.html' },
-  { title: 'Kundan rings & Kilangi', image: 'images/collection3.png' , link: 'design3.html' },
-  { title: 'Kundan earrings & mangtika', image: 'images/collection5.png' , link: 'design5.html' },
+  { title: 'Bridal and Occasional Jewellry', image: 'images/collection1.png', link: 'design1.html' },
+  { title: 'Kundan Jewellery Raw Material', image: 'images/collection2.png' , link: 'design2.html' },
+  { title: 'Kundan Rings & Kilangi', image: 'images/collection3.png' , link: 'design3.html' },
+  { title: 'Kundan Earrings & Mangtika', image: 'images/collection5.png' , link: 'design5.html' },
   { title: 'Bangles', image: 'images/collection6.png' , link: 'design6.html' }
  /* { title: 'Design 08', image: 'images/photo8.png' },
   { title: 'Design 09', image: 'images/photo9.jpeg' },
